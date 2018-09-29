@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6d95e5f-ae41-4e45-8127-b1309b1478d2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2017907740">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="11" />
+          <entry key="png" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4298" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4298" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyGame" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GameField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="263" column="46" selection-start-line="263" selection-start-column="46" selection-end-line="263" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#GameField#0;class#GameField#0" />
+                <element signature="method#loadSound#0;class#GameField#0" />
+                <element signature="method#initGame#0;class#GameField#0" />
+                <element signature="e#1826#1920#0" />
+                <element signature="method#loadImage#0;class#GameField#0" />
+                <element signature="method#getImage#0;class#GameField#0" />
+                <element signature="method#actionPerformed#0;class#GameField#0" />
+                <element signature="e#2960#3247#0" />
+                <element signature="method#validateBorder#0;class#GameField#0" />
+                <element signature="method#move#0;class#GameField#0" />
+                <element signature="method#step#0;class#GameField#0" />
+                <element signature="e#4068#5694#0" />
+                <element signature="e#5230#6877#0" />
+                <element signature="class#FieldKeyListener#0;class#GameField#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Audio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MainWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>actionP</find>
+      <find>endAudio.sound()</find>
+      <find>endAudio.sound(</find>
+      <find>xList.size()</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Audio.java" />
+        <option value="$PROJECT_DIR$/src/GameField.java" />
+        <option value="$PROJECT_DIR$/src/MainWindow.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="517" />
+    <option name="width" value="1616" />
+    <option name="height" value="373" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538239900912" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Olga\Desktop\MyGame\res\image" />
+      <recent name="C:\Users\Olga\Desktop\MyGame" />
+      <recent name="C:\Users\Olga\Desktop\MyGame\res\sound" />
+      <recent name="C:\Users\Olga\Desktop\MyGame\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olga\Desktop\MyGame\res\image" />
+      <recent name="C:\Users\Olga\Desktop\MyGame\res" />
+      <recent name="C:\Users\Olga\Desktop\MyGame\image" />
+      <recent name="C:\Users\Olga\Desktop\MyGame\sound" />
+      <recent name="C:\Users\Olga\Desktop\MyGame" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainWindow" />
+      <module name="MyGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6d95e5f-ae41-4e45-8127-b1309b1478d2" name="Default Changelist" comment="" />
+      <created>1537715420737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537715420737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.13560411" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.50159746" weight="0.13046272" />
+      <window_info id="Favorites" order="6" weight="0.32969153" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23537233" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29787233" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GameField.java</url>
+          <line>211</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="gameIsAlive" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="172" column="14" selection-start-line="172" selection-start-column="14" selection-end-line="172" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyGame.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/image/player.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="3309" column="16" selection-start-line="3309" selection-start-column="16" selection-end-line="3309" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="487" selection-start-line="487" selection-end-line="487" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/image/win.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="427" column="13" selection-start-line="427" selection-start-column="13" selection-end-line="427" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/image/gameOver.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="263" column="46" selection-start-line="263" selection-start-column="46" selection-end-line="263" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#GameField#0;class#GameField#0" />
+            <element signature="method#loadSound#0;class#GameField#0" />
+            <element signature="method#initGame#0;class#GameField#0" />
+            <element signature="e#1826#1920#0" />
+            <element signature="method#loadImage#0;class#GameField#0" />
+            <element signature="method#getImage#0;class#GameField#0" />
+            <element signature="method#actionPerformed#0;class#GameField#0" />
+            <element signature="e#2960#3247#0" />
+            <element signature="method#validateBorder#0;class#GameField#0" />
+            <element signature="method#move#0;class#GameField#0" />
+            <element signature="method#step#0;class#GameField#0" />
+            <element signature="e#4068#5694#0" />
+            <element signature="e#5230#6877#0" />
+            <element signature="class#FieldKeyListener#0;class#GameField#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Audio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
